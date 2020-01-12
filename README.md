@@ -7,7 +7,7 @@
 
 本作品はUnityのML-Agentsを使った倒立二重振り子の強化学習をテーマにしています。
 
-## 動画
+## 動画(画像をクリックして再生)
 [![main_visual](https://user-images.githubusercontent.com/26866592/72219684-17d8d000-358c-11ea-9446-a05b369d1098.png)](https://youtu.be/O4TRx_J__mA)
 
 ## 強化学習の実行/学習結果の確認
@@ -16,7 +16,7 @@
 git clone https://github.com/Aries1A/Furi-koneko.git
 pip3 install git+git://github.com/openai/baselines
 pip3 install -r requirements.txt
-cd Furi-koneko/notebook
+cd Furi-koneko/notebooks
 juputer notebook
 ```
 
